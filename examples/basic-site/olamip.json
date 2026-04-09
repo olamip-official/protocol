@@ -1,0 +1,413 @@
+{
+  "protocol": "OLAMIP",
+  "version": "1.0.0",
+
+  "identity": {
+    "name": "OLAMIP",
+    "type": "open-protocol",
+    "canonical_description": "OLAMIP is an open, machine-readable metadata protocol designed to help AI systems interpret websites with clarity, precision, and reliability. It enables publishers to define structured summaries, categories, and semantic meaning so that LLMs can understand content accurately.",
+    "tags": [
+      "ai-metadata",
+      "structured-data",
+      "machine-readable-web",
+      "llm-optimization",
+      "ai-comprehension",
+      "web-standards"
+    ]
+  },
+
+  "content": {
+    "overview": {
+      "summary": "OLAMIP is an open protocol that helps AI systems understand websites with greater accuracy and intent. The homepage explains that while all public web content is already accessible to search engines and LLMs, OLAMIP gives site owners more control over how their information is interpreted. It highlights the benefits of structured metadata—clarity, efficiency, and precision—while emphasizing that OLAMIP does not expose private data or create competitive disadvantages. The protocol is presented as a strategic tool for shaping machine interpretation in an AI-driven world."
+    },
+
+    "sections": [
+      {
+        "title": "General Information",
+        "summary": "Core informational pages describing the project, its mission, and technical details.",
+        "url": "https://olamip.org/",
+        "section_type": "doc_category",
+        "entries": [
+          {
+            "title": "Why OLAMIP Was Created",
+            "summary": "A detailed explanation of the motivations behind OLAMIP and the problems it aims to solve.",
+            "url": "https://olamip.org/why-olamip-was-created/",
+            "content_type": "page",
+            "tags": ["olamip", "philosophy", "origin"],
+            "priority": "medium"
+          },
+          {
+            "title": "Why Standardization Matters",
+            "summary": "An argument for why standardized metadata formats are essential for AI reliability and interoperability.",
+            "url": "https://olamip.org/why-standardization-matters/",
+            "content_type": "page",
+            "tags": ["standardization", "ai", "metadata"],
+            "priority": "medium"
+          },
+          {
+            "title": "Core Philosophy",
+            "summary": "Foundational principles behind OLAMIP, including why the protocol was created and how it aligns with the future of AI‑ready content.",
+            "url": "https://olamip.org/core-philosophy/",
+            "content_type": "doc_page",
+            "priority": "medium"
+          },
+          {
+            "title": "Why JSON Won the Internet",
+            "summary": "An exploration of why JSON became the dominant data format for APIs, metadata, and machine‑readable systems.",
+            "url": "https://olamip.org/why-json-won-the-internet/",
+            "content_type": "page",
+            "tags": ["json", "data-formats", "web-technology"],
+            "priority": "medium"
+          },
+          {
+            "title": "File Format Specification",
+            "summary": "The official specification describing the structure, fields, and rules for creating an OLAMIP file.",
+            "url": "https://olamip.org/file-format-specification/",
+            "content_type": "doc_page",
+            "tags": ["specification", "metadata", "standard"],
+            "priority": "high"
+          },
+          {
+            "title": "Delta Updates",
+            "summary": "Documentation explaining how to publish incremental updates to OLAMIP files using delta structures.",
+            "url": "https://olamip.org/delta-updates/",
+            "content_type": "doc_page",
+            "tags": ["delta-updates", "versioning", "metadata"],
+            "priority": "high"
+          },
+            {
+            "title": "AI Pipeline Integration",
+            "summary": "Guidance on how OLAMIP integrates into AI pipelines, improving retrieval, comprehension, and structured reasoning.",
+            "url": "https://olamip.org/ai-pipeline-integration/",
+            "content_type": "doc_page",
+            "tags": ["ai-pipelines", "integration", "metadata"],
+            "priority": "medium"
+          },
+          {
+            "title": "Using OLAMIP in RAG Pipelines",
+            "summary": "Guidance on how to use OLAMIP as a first‑class data source in Retrieval‑Augmented Generation (RAG) pipelines. It covers architecture, chunking strategies, retrieval scoring, metadata‑aware embeddings, and includes example code snippets.",
+            "url": "https://olamip.org/using-olamip-in-rag-pipelines/",
+            "content_type": "doc_page",
+            "tags": ["ai-pipelines", "integration", "rag"],
+            "priority": "medium"
+          },
+          {
+            "title": "The AI-Native Web: How Graph Nets and OLAMIP Work Together",
+            "summary": "Guidance on OLAMIP acts as the ground truth, and Graph Nets act as the reasoning engine.",
+            "url": "https://olamip.org/the-ai-native-web-how-graph-nets-and-olamip-work-together/",
+            "content_type": "doc_page",
+            "tags": ["relational-search", "metadata", "rag"],
+            "priority": "medium"
+          },
+          {
+            "title": "How OLAMIP Aligns with Machine Learning Fundamentals",
+            "summary": "Guidance on how the OLAMIP standard is designed to make websites readable by large language models (LLMs).",
+            "url": "https://olamip.org/how-olamip-aligns-with-machine-learning-fundamentals/",
+            "content_type": "doc_page",
+            "tags": ["machine-learning", "metadata"],
+            "priority": "medium"
+          },
+          {
+            "title": "How LLMs Process Information When Websites Can’t Be Reached",
+            "summary": "A deep dive into how LLMs rebuild meaning from cached data, partial signals, and contextual clues when live content is inaccessible.",
+            "url": "https://olamip.org/how-llms-process-information-when-websites-cant-be-reached/",
+            "content_type": "page",
+            "tags": ["llm-behavior", "offline-inference", "context-reconstruction"],
+            "priority": "medium"
+          },
+          {
+            "title": "Why OLAMIP Is a Superior Standard to llms.txt",
+            "summary": "A comparison of OLAMIP and llms.txt, explaining why structured metadata outperforms unstructured text files.",
+            "url": "https://olamip.org/why-olamip-is-a-superior-standard-to-llms-txt/",
+            "content_type": "page",
+            "tags": ["olamip", "llms-txt", "metadata"],
+            "priority": "high"
+          },
+          {
+            "title": "Frequently Asked Questions",
+            "summary": "A collection of common questions and answers explaining how OLAMIP works and how to implement it.",
+            "url": "https://olamip.org/frequently-asked-questions/",
+            "content_type": "doc_page",
+            "tags": ["faqs", "documentation"],
+            "priority": "high"
+          },
+          {
+            "title": "Privacy Policy",
+            "summary": "The site's privacy policy describing how visitor data is handled.",
+            "url": "https://olamip.org/privacy-policy/",
+            "content_type": "legal_page",
+            "priority": "low"
+          },
+          {
+            "title": "About",
+            "summary": "Professional background of Ralph Gonzalez, creator of OLAMIP.",
+            "url": "https://olamip.org/about/",
+            "content_type": "page",
+            "priority": "low"
+          },
+          {
+            "title": "Contact",
+            "summary": "How to contact the OLAMIP creator.",
+            "url": "https://olamip.org/contact-me/",
+            "content_type": "page",
+            "priority": "low"
+          },
+          {
+            "title": "Sitemap",
+            "summary": "A machine-readable list of all URLs published on OLAMIP.org.",
+            "url": "https://olamip.org/sitemap/",
+            "content_type": "page",
+            "tags": ["sitemap", "index"],
+            "priority": "low"
+          }
+        ]
+      },
+      {
+        "title": "AI Applications & Industry Transformation",
+        "summary": "This category examines how artificial intelligence is reshaping industries at every level—from healthcare and finance to robotics, cybersecurity, and consumer technology. Articles explore real-world deployments, operational shifts, and the strategic decisions organizations must make as AI becomes central to modern workflows. The category emphasizes the role of structured metadata and machine-readable standards like OLAMIP in enabling safer automation and more reliable decision-making.",
+        "url": "https://olamip.org/category/ai-applications-industry-transformation/",
+        "section_type": "blog_category",
+        "priority": "medium",
+        "language": "en",
+        "entries": [
+          {
+            "title": "How AI Is Transforming Cybersecurity",
+            "summary": "A breakdown of how AI enhances threat detection, risk analysis, and automated defense systems, and why structured metadata improves security intelligence.",
+            "url": "https://olamip.org/how-ai-is-transforming-cybersecurity/",
+            "content_type": "blog_article",
+            "tags": ["cybersecurity", "ai-defense", "automation"],
+            "priority": "medium"
+          },
+          {
+            "title": "Understanding SEO, GEO, and AEO, and What Happens When Websites Disappear",
+            "summary": "This article clarifies these concepts, explains how each optimization discipline works, and explores the long‑term implications of digital impermanence.",
+            "url": "https://olamip.org/understanding-seo-geo-and-aeo-and-what-happens-when-websites-disappear/",
+            "content_type": "blog_article",
+            "tags": ["seo", "geo", "aeo"],
+            "priority": "medium"
+          },
+          {
+            "title": "AI and Digital Marketing in E‑Commerce",
+            "summary": "This article explores how AI enhances digital marketing in e‑commerce, the techniques it uses, real‑world applications, and why structured metadata plays a role in enabling accurate AI‑driven personalization.",
+            "url": "https://olamip.org/ai-and-digital-marketing-in-e-commerce/",
+            "content_type": "blog_article",
+            "tags": ["seo", "marketing", "social-media"],
+            "priority": "medium"
+          }
+        ]
+      },
+      {
+        "title": "AI Infrastructure & Information Flow",
+        "summary": "This category reveals how AI systems gather, interpret, and reconstruct information across the web. Articles break down crawling, extraction, caching, fallback logic, and inference when content is missing or blocked. Readers gain insight into how models compensate for incomplete data, how hallucinations arise, and why reliable metadata is essential for accuracy.",
+        "url": "https://olamip.org/category/ai-infrastructure-information-flow/",
+        "section_type": "blog_category",
+        "priority": "medium",
+        "language": "en",
+        "entries": [
+          {
+            "title": "How AI Handles Missing or Blocked Pages",
+            "summary": "An explanation of how AI systems infer meaning when pages are unavailable, including fallback strategies and contextual reconstruction.",
+            "url": "https://olamip.org/how-ai-handles-missing-or-blocked-pages/",
+            "content_type": "blog_article",
+            "tags": ["ai-inference", "missing-data", "fallback-logic"],
+            "priority": "medium"
+          }
+        ]
+      },
+      {
+        "title": "AI‑Driven Use Cases & OLAMIP in Practice",
+        "summary": "This category explores real-world and hypothetical scenarios where OLAMIP is applied across industries. Articles demonstrate how structured metadata improves clarity, reliability, and automation in complex environments such as healthcare, finance, government, and enterprise ecosystems.",
+        "url": "https://olamip.org/category/ai-driven-use-cases-olamip-in-practice/",
+        "section_type": "blog_category",
+        "priority": "medium",
+        "language": "en",
+        "entries": [
+          {
+            "title": "Overcoming LLM Development and Integration Challenges",
+            "summary": "This article explains how OLAMIP helps organizations build LLM‑powered solutions that are more predictable, transparent, and aligned with real‑world requirements.",
+            "url": "https://olamip.org/overcoming-llm-development-and-integration-challenges/",
+            "content_type": "blog_article",
+            "tags": ["use-case", "ai-discovery", "metadata"],
+            "priority": "medium"
+          },
+          {
+            "title": "Pharmaceutical Companies and OLAMIP Structured Data",
+            "summary": "An exploration of how pharmaceutical companies can use OLAMIP to improve data clarity, regulatory compliance, and AI-driven decision support in highly regulated environments.",
+            "url": "https://olamip.org/pharmaceutical-companies-and-olamip-structured-data/",
+            "content_type": "blog_article",
+            "tags": ["pharma", "structured-data", "ai-compliance"],
+            "priority": "medium"
+          },
+          {
+            "title": "The Role of OLAMIP in Production Agentic Systems",
+            "summary": "A look at how OLAMIP improves reliability and reduces ambiguity in agentic AI systems operating autonomously.",
+            "url": "https://olamip.org/the-role-of-olamip-in-production-agentic-systems/",
+            "content_type": "blog_article",
+            "tags": ["agentic-ai", "metadata", "llm-behavior"],
+            "priority": "medium"
+          },
+          {
+            "title": "How OLAMIP Transforms AI Discovery: A TimeLAX.com Use Case",
+            "summary": "A real-world example showing how OLAMIP improves AI comprehension, retrieval, and content classification for a multimedia website.",
+            "url": "https://olamip.org/how-olamip-transforms-ai-discovery-a-timelax-com-use-case/",
+            "content_type": "blog_article",
+            "tags": ["use-case", "ai-discovery", "metadata"],
+            "priority": "medium"
+          },
+          {
+            "title": "AI With OLAMIP for Decision Making in Public Goods",
+            "summary": "An exploration of how OLAMIP supports public‑goods organizations, whose missions depend on clarity, transparency, and responsible communication.",
+            "url": "https://olamip.org/ai-with-olamip-for-decision-making-in-public-goods/",
+            "content_type": "blog_article",
+            "tags": ["public-goods", "education", "health"],
+            "priority": "medium"
+          },
+          {
+            "title": "How OLAMIP Enables Multi‑Agent Collaboration",
+            "summary": "This article explains how OLAMIP gives agents a common semantic ground on which to coordinate, negotiate, and execute.",
+            "url": "https://olamip.org/how-olamip-enables-multi-agent-collaboration/",
+            "content_type": "blog_article",
+            "tags": ["metadata", "conflict-resolution"],
+            "priority": "medium"
+          },
+          {
+            "title": "How LLMs Actually Process Web Content",
+            "summary": "A technical breakdown of how LLMs tokenize, segment, and interpret web content, including the challenges posed by inconsistent structure.",
+            "url": "https://olamip.org/how-llms-actually-process-web-content/",
+            "content_type": "blog_article",
+            "tags": ["llm-processing", "web-content", "tokenization"],
+            "priority": "medium"
+          }
+        ]
+      },
+      {
+        "title": "Foundational AI Languages & Symbolic Programming",
+        "summary": "This category examines symbolic programming paradigms and languages that shaped early AI—such as LISP, Prolog, and logic programming—and how these foundational ideas continue to influence modern machine learning architectures.",
+        "url": "https://olamip.org/category/foundational-ai-languages-symbolic-programming/",
+        "section_type": "blog_category",
+        "priority": "medium",
+        "language": "en",
+        "entries": [
+          {
+            "title": "Are LISP and Prolog Still Used in Modern AI Systems?",
+            "summary": "A comparison of classical symbolic languages and their relevance in today’s hybrid symbolic‑neural architectures.",
+            "url": "https://olamip.org/are-lisp-and-prolog-still-used-in-modern-ai-systems/",
+            "content_type": "blog_article",
+            "tags": ["lisp", "prolog", "symbolic-ai"],
+            "priority": "medium"
+          },
+          {
+            "title": "Where Prolog Fits in the Development of Modern AI Systems",
+            "summary": "An analysis of Prolog’s role in logic programming and how its principles influence contemporary AI reasoning.",
+            "url": "https://olamip.org/where-prolog-fits-in-the-development-of-modern-ai-systems/",
+            "content_type": "blog_article",
+            "tags": ["prolog", "logic-programming", "ai-reasoning"],
+            "priority": "medium"
+          },
+          {
+            "title": "How LISP Can Support Modern AI Systems, Including LLMs",
+            "summary": "A discussion of how LISP’s symbolic foundations remain relevant in modern AI workflows and reasoning systems.",
+            "url": "https://olamip.org/how-lisp-can-support-modern-ai-systems-including-llms/",
+            "content_type": "blog_article",
+            "tags": ["lisp", "symbolic-ai", "llms"],
+            "priority": "medium"
+          }
+        ]
+      },
+      {
+        "title": "LLM Behavior & Interpretation",
+        "summary": "This category analyzes how large language models perceive, interpret, and reconstruct meaning from digital content. Articles explore tokenization, contextual reasoning, pattern recognition, and the probabilistic nature of AI understanding.",
+        "url": "https://olamip.org/category/llm-behavior-interpretation/",
+        "section_type": "blog_category",
+        "priority": "medium",
+        "language": "en",
+        "entries": [
+          {
+            "title": "How LLMs Actually Process Web Content",
+            "summary": "This article breaks down how LLMs interpret web content, why the process is inherently error‑prone, and how structured metadata can dramatically improve comprehension.",
+            "url": "https://olamip.org/how-llms-actually-process-web-content/",
+            "content_type": "blog_article",
+            "tags": ["metadata", "web-standards", "llm"],
+            "priority": "medium"
+          },
+          {
+            "title": "What AI Models Really Learn from Websites",
+            "summary": "An exploration of how LLMs extract meaning from structure, patterns, and metadata across the web.",
+            "url": "https://olamip.org/what-ai-models-really-learn-from-websites/",
+            "content_type": "blog_article",
+            "tags": ["llm-learning", "web-content", "ai-interpretation"],
+            "priority": "medium"
+          }
+        ]
+      },
+      {
+        "title": "Machine‑Readable Protocols & The Future Web",
+        "summary": "This category explores the evolution of machine‑readable standards and the growing need for protocols designed specifically for AI comprehension. Articles examine the limitations of traditional HTML‑only approaches and the rise of structured metadata.",
+        "url": "https://olamip.org/category/machine-readable-protocols-the-future-web/",
+        "section_type": "blog_category",
+        "priority": "medium",
+        "language": "en",
+        "entries": [
+          {
+            "title": "The Rise of Machine‑Readable Web Protocols",
+            "summary": "An overview of emerging metadata standards and why the future of the web depends on AI‑friendly structure.",
+            "url": "https://olamip.org/the-rise-of-machine-readable-web-protocols/",
+            "content_type": "blog_article",
+            "tags": ["metadata", "web-standards", "ai"],
+            "priority": "medium"
+          },
+          {
+            "title": "The AI-Ready Web: A Guide for Webmasters to OLAMIP and WebMCP",
+            "summary": "A guide for webmasters navigating an AI‑driven web, explaining how OLAMIP and WebMCP help sites remain visible, interpretable, and fully functional for modern AI systems.",
+            "url": "https://olamip.org/the-ai-ready-web-a-guide-for-webmasters-to-olamip-and-webmcp/",
+            "content_type": "blog_article",
+            "tags": ["metadata", "web-standards", "ai"],
+            "priority": "medium"
+          }
+        ]
+      },
+      {
+        "title": "Web Technologies & Data Formats",
+        "summary": "This category provides deep technical insights into the data formats and structural conventions that underpin the modern web. Articles compare formats such as JSON, XML, HTML, and YAML, analyzing their strengths, weaknesses, and impact on AI comprehension.",
+        "url": "https://olamip.org/category/web-technologies-data-formats/",
+        "section_type": "blog_category",
+        "priority": "medium",
+        "language": "en",
+        "entries": [
+          {
+            "title": "Why JSON Is the Best Format for the OLAMIP Protocol",
+            "summary": "A technical explanation of why JSON’s structure, simplicity, and predictability make it ideal for OLAMIP.",
+            "url": "https://olamip.org/why-json-is-the-best-format-for-the-olamip-protocol/",
+            "content_type": "blog_article",
+            "tags": ["json", "olamip", "metadata"],
+            "priority": "medium"
+          }
+        ]
+      },
+      {
+        "title": "Structured Data & Metadata",
+        "summary": "This category focuses on the importance of structure in a world increasingly mediated by AI.",
+        "url": "https://olamip.org/category/structured-data-metadata/",
+        "section_type": "blog_category",
+        "priority": "medium",
+        "language": "en",
+        "entries": [
+          {
+            "title": "Why AI Needs Structured Metadata",
+            "summary": "Article about how structured data gives AI systems a reliable map of the content, allowing them to interpret information more accurately and consistently.",
+            "url": "https://olamip.org/why-ai-needs-structured-metadata/",
+            "content_type": "blog_article",
+            "tags": ["json", "olamip", "metadata"],
+            "priority": "medium"
+          }
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "last_updated": "2026-02-10",
+    "language": "en",
+    "source_url": "https://olamip.org/",
+    "copyright": "© 2025-2026 Ralph Gonzalez"
+  }
+}
