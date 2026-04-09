@@ -1,0 +1,131 @@
+{
+  "protocol": "OLAMIP",
+  "version": "1.0.0",
+  "identity": {
+    "name": "TimeLAX",
+    "type": "creative-project",
+    "canonical_description": "TimeLAX is the largest independent Los Angeles time‑lapse archive ever created. This photography project includes the landscapes, architecture, and motion of Los Angeles through cinematic sequences.",
+    "tags": ["time-lapse", "photography", "los-angeles", "cinematography", "visual-arts"]
+  },
+  "content": {
+    "overview": {
+      "summary": "TimeLAX is a visual archive of Los Angeles created through long‑exposure and time‑lapse cinematography. The project showcases the city's skyline, traffic patterns, landmarks, and natural phenomena through curated video sequences, wallpapers, licensing information, and educational resources."
+    },
+    "sections": [
+      {
+        "title": "Los Angeles Time-Lapse Videos",
+        "summary": "A curated collection of cinematic time‑lapse videos showcasing iconic Los Angeles locations, landmarks, and atmospheric conditions.",
+        "url": "https://www.timelax.com/los-angeles-time-lapse-videos/",
+        "section_type": "project_group",
+        "tags": ["time-lapse", "los-angeles", "videos", "cinematic"],
+        "priority": "high",
+        "entries": [
+          {
+            "title": "TimeLAX 01",
+            "summary": "A foundational Los Angeles time‑lapse sequence featuring skyline views and urban motion.",
+            "url": "https://www.timelax.com/los-angeles-time-lapse-video-timelax-01/",
+            "content_type": "media_item",
+            "tags": ["time-lapse", "los-angeles", "video"],
+            "priority": "medium"
+          },
+          {
+            "title": "TimeLAX 02",
+            "summary": "A continuation of the TimeLAX series capturing additional cityscapes and dynamic urban scenes.",
+            "url": "https://www.timelax.com/los-angeles-time-lapse-video-timelax-02/",
+            "content_type": "media_item",
+            "tags": ["time-lapse", "los-angeles", "video"],
+            "priority": "medium"
+          },
+          {
+            "title": "TimeLAX 03 – Supermoon",
+            "summary": "A time‑lapse sequence highlighting the rare supermoon event over Los Angeles landmarks.",
+            "url": "https://www.timelax.com/los-angeles-time-lapse-video-timelax-03-supermoon/",
+            "content_type": "media_item",
+            "tags": ["time-lapse", "los-angeles", "supermoon", "astronomy"],
+            "priority": "medium"
+          },
+          {
+            "title": "TimeLAX 04 – Hollywood Nights",
+            "summary": "A nighttime time‑lapse capturing the illuminated streets and skyline of Hollywood.",
+            "url": "https://www.timelax.com/los-angeles-time-lapse-video-timelax-04-hollywood-nights/",
+            "content_type": "media_item",
+            "tags": ["time-lapse", "hollywood", "night", "los-angeles"],
+            "priority": "medium"
+          },
+          {
+            "title": "TimeLAX 05 – Silicon Beach",
+            "summary": "A coastal time‑lapse sequence featuring the Silicon Beach region and its vibrant atmosphere.",
+            "url": "https://www.timelax.com/los-angeles-time-lapse-video-timelax-05-silicon-beach/",
+            "content_type": "media_item",
+            "tags": ["time-lapse", "silicon-beach", "coast", "los-angeles"],
+            "priority": "medium"
+          },
+          {
+            "title": "TimeLAX 06 – The Old Sixth Street Viaduct",
+            "summary": "A historical time‑lapse capturing the iconic Sixth Street Viaduct before its demolition.",
+            "url": "https://www.timelax.com/los-angeles-time-lapse-video-timelax-06-the-old-sixth-street-viaduct/",
+            "content_type": "media_item",
+            "tags": ["time-lapse", "los-angeles", "viaduct", "architecture"],
+            "priority": "medium"
+          },
+          {
+            "title": "TimeLAX 07 – The LA Traffic",
+            "summary": "A dynamic time‑lapse showcasing the movement and patterns of Los Angeles traffic.",
+            "url": "https://www.timelax.com/los-angeles-time-lapse-video-timelax-07-the-la-traffic/",
+            "content_type": "media_item",
+            "tags": ["time-lapse", "traffic", "los-angeles"],
+            "priority": "medium"
+          }
+        ]
+      },
+      {
+        "title": "TimeLAX Homepage & Resources",
+        "summary": "Main landing page, wallpapers, licensing, FAQs, and project information.",
+        "url": "https://www.timelax.com/",
+        "section_type": "content_section",
+        "tags": ["about", "licensing", "faq", "wallpapers"],
+        "priority": "medium",
+        "entries": [
+          {
+            "title": "Los Angeles Desktop Wallpapers",
+            "summary": "A collection of high‑resolution Los Angeles wallpapers derived from TimeLAX photography.",
+            "url": "https://www.timelax.com/los-angeles-desktop-wallpapers/",
+            "content_type": "resource",
+            "tags": ["wallpapers", "los-angeles", "photography"],
+            "priority": "medium"
+          },
+          {
+            "title": "Stock Footage Licensing Information",
+            "summary": "Information on licensing TimeLAX time‑lapse footage for commercial and editorial use.",
+            "url": "https://www.timelax.com/los-angeles-time-lapse-stock-footage-licensing-information/",
+            "content_type": "legal_page",
+            "tags": ["licensing", "stock-footage", "time-lapse"],
+            "priority": "low"
+          },
+          {
+            "title": "Frequently Asked Questions",
+            "summary": "Answers to common questions about the TimeLAX project, production methods, and usage rights.",
+            "url": "https://www.timelax.com/los-angeles-time-lapse-frequently-asked-questions/",
+            "content_type": "page",
+            "tags": ["faqs", "information", "time-lapse"],
+            "priority": "high"
+          },
+          {
+            "title": "About the TimeLAX Archive",
+            "summary": "Background information about the TimeLAX project, its creators, and its long‑term documentation of Los Angeles.",
+            "url": "https://www.timelax.com/about-the-timelax-los-angeles-time-lapse-archive/",
+            "content_type": "page",
+            "tags": ["about", "project", "los-angeles"],
+            "priority": "low"
+          }
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "last_updated": "2026-02-02",
+    "language": "en",
+    "source_url": "https://www.timelax.com/",
+    "copyright": "© 2026 RalphGM & RandyFX"
+  }
+}
