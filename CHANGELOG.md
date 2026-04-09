@@ -5,5 +5,4 @@
 ## v1.0.0
 
 - Initial release of the OLAMIP specification.  
-- Added reference implementations.
 - Added examples and documentation (`/specs`, `/docs`, `/governance`, `/examples`).
