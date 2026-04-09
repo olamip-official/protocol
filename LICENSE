@@ -1,0 +1,63 @@
+# OLAMIP Licensing Overview
+
+This repository uses a **dual‑license structure** to protect the integrity of the OLAMIP protocol while keeping implementations fully open.
+
+## 1. Specification and Documentation License
+
+The OLAMIP specification and all related documentation located in:
+
+- `/specs`
+- `/docs`
+- `/governance`
+- `/examples` (descriptive examples, schemas, and explanatory text)
+
+are licensed under:
+
+**Creative Commons Attribution–NoDerivatives 4.0 International (CC BY‑ND 4.0)**  
+https://creativecommons.org/licenses/by-nd/4.0/
+
+This means:
+
+- You may **use**, **share**, and **commercially incorporate** the specification.  
+- You may **not modify or distribute modified versions** of the specification text, examples, or schemas.  
+- Implementations may vary, but the protocol definition must remain canonical.
+
+This ensures the OLAMIP protocol remains unified and avoids fragmentation.
+
+## 2. Real‑World OLAMIP Use‑Case Files (Examples Directory)
+
+The `examples/` directory may also contain real OLAMIP‑use‑case files (e.g., `olamip.json` and `olamip-delta.json` from real sites). These files are treated as **data/content provided for illustration purposes**, not as part of the protocol specification itself.
+
+- They are **not** automatically covered by the CC BY‑ND license.  
+- Their usage should follow the terms of the **original site’s content license** (e.g., standard website terms, copyright notice, or any explicit reuse license).  
+- You may not redistribute them as if they were part of the OLAMIP spec, and you must respect the original publisher’s rights.
+
+If you publish real‑world examples, clearly label each subdirectory or file with:
+
+- A short note that it is a **real‑world use‑case**.  
+- A link or citation to the original site.  
+- A reminder that the OLAMIP spec is CC BY‑ND, but the *content* is not.
+
+## 3. Source Code License
+
+All source code located in:
+
+- `/src`
+- `/tests`
+
+is licensed under the **MIT License**, a permissive open‑source license that allows:
+
+- Use  
+- Modification  
+- Redistribution  
+- Commercial use  
+
+This encourages broad adoption and implementation of the protocol.
+
+## Summary
+
+- **Spec = CC BY‑ND (no modifications allowed)**  
+- **Real‑world examples = follow original site licenses**  
+- **Code = MIT (fully open and modifiable)**  
+
+This structure protects the protocol while empowering developers to build freely on top of it and keeps your example‑directory policy clear and legally sound.
