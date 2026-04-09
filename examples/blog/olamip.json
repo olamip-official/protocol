@@ -1,0 +1,727 @@
+{
+  "protocol": "OLAMIP",
+  "version": "1.0.0",
+  "identity": {
+    "name": "iVideoMaking",
+    "type": "creative-studio",
+    "canonical_description": "iVideoMaking.com is a photography, filmmaking, and AI‑enhanced video production website featuring tutorials, time‑lapse work, creative insights, and multimedia projects.",
+    "tags": [
+      "photography",
+      "video-production",
+      "ai-video",
+      "time-lapse",
+      "creative-media",
+      "visual-storytelling"
+    ]
+  },
+  "content": {
+    "overview": {
+      "summary": "iVideoMaking.com publishes articles, tutorials, time‑lapse projects, AI‑generated video concepts, photography guides, and creative discussions. The site covers both traditional and AI‑driven production techniques, offering practical insights for photographers, filmmakers, and visual storytellers."
+    },
+    "sections": [
+      {
+        "title": "AI Video Production",
+        "summary": "Short insights into AI‑driven video creation, covering machine learning workflows, automated editing, and concept generation.",
+        "url": "https://www.ivideomaking.com/ai-video-production/",
+        "section_type": "project_group",
+        "entries": [
+          {
+            "title": "Heroes of Speed: Pop Culture Concept Video",
+            "summary": "A high‑energy AI‑generated concept video celebrating car culture through futuristic visuals and dynamic characters.",
+            "url": "https://www.ivideomaking.com/ai-video-production/heroes-of-speed-ai-concept-video/",
+            "content_type": "media_item",
+            "tags": ["cars", "futuristic", "video"],
+            "priority": "medium"
+          },
+          {
+            "title": "The Last Cosmonaut: Sci-fi Concept Video",
+            "summary": "A haunting sci‑fi AI video following a lone space traveler confronting an alien world marked by isolation and surveillance.",
+            "url": "https://www.ivideomaking.com/ai-video-production/the-last-cosmonaut-ai-concept-video/",
+            "content_type": "media_item",
+            "tags": ["sci-fi", "space", "video"],
+            "priority": "medium"
+          },
+          {
+            "title": "Binaural Alpha – Relaxation, Meditation Video",
+            "summary": "A calming AI‑generated meditation video enhanced by immersive binaural audio designed for headphone listening.",
+            "url": "https://www.ivideomaking.com/ai-video-production/binaural-alpha-relaxation-meditation-ai-video/",
+            "content_type": "media_item",
+            "tags": ["meditation", "audio", "video"],
+            "priority": "medium"
+          },
+          {
+            "title": "Breathe Deeply: Relaxation, Meditation Video",
+            "summary": "A surreal AI‑generated meditation journey through abstract cosmic environments and dreamlike visual patterns.",
+            "url": "https://www.ivideomaking.com/ai-video-production/breathe-deeply-relaxation-meditation-ai-video/",
+            "content_type": "media_item",
+            "tags": ["relaxation", "cosmos", "video"],
+            "priority": "medium"
+          },
+          {
+            "title": "I Won’t Let Go: Cyborgs Concept Video",
+            "summary": "A neon‑lit cyberpunk short film exploring futuristic characters navigating emotional stories in a tech‑driven world.",
+            "url": "https://www.ivideomaking.com/ai-video-production/i-wont-let-go-cyborgs-concept-video-ai/",
+            "content_type": "media_item",
+            "tags": ["cyberpunk", "futuristic", "video"],
+            "priority": "medium"
+          },
+          {
+            "title": "Mystic Forest: Fantasy Concept Video",
+            "summary": "A peaceful AI‑generated fantasy video depicting the harmony between humanity and nature in a futuristic forest world.",
+            "url": "https://www.ivideomaking.com/ai-video-production/mystic-forest-concept-video-ai/",
+            "content_type": "media_item",
+            "tags": ["fantasy", "nature", "video"],
+            "priority": "medium"
+          },
+          {
+            "title": "Bright Nights: Steampunks Concept Video",
+            "summary": "A richly detailed AI steampunk world brought to life through nighttime cityscapes filled with gears, lamps, and motion.",
+            "url": "https://www.ivideomaking.com/ai-video-production/bright-nights-steampunks-concept-video-ai/",
+            "content_type": "media_item",
+            "tags": ["steampunk", "cityscape", "video"],
+            "priority": "medium"
+          },
+          {
+            "title": "Astral Steps: Relaxation, Meditation Video",
+            "summary": "A tranquil AI‑generated space meditation video designed to inspire calmness and reflection through cosmic imagery.",
+            "url": "https://www.ivideomaking.com/ai-video-production/astral-steps-relaxation-meditation/",
+            "content_type": "media_item",
+            "tags": ["space", "meditation", "video"],
+            "priority": "medium"
+          },
+          {
+            "title": "World on Fire: Apocalyptic Concept Video",
+            "summary": "A dramatic AI‑generated apocalyptic video depicting fiery landscapes, collapsing cities, and intense atmospheric destruction.",
+            "url": "https://www.ivideomaking.com/ai-video-production/world-on-fire-apocalyptic-concept-video-ai/",
+            "content_type": "media_item",
+            "tags": ["apocalyptic", "destruction", "video"],
+            "priority": "medium"
+          },
+          {
+            "title": "Sooner Than You Know: Retro-Futurism Concept Video",
+            "summary": "A retro‑futuristic AI video blending steampunk aesthetics with imaginative 4K visuals and mechanical dreamscapes.",
+            "url": "https://www.ivideomaking.com/ai-video-production/sooner-than-you-know-concept-video-ai/",
+            "content_type": "media_item",
+            "tags": ["retro-futurism", "steampunk", "video"],
+            "priority": "medium"
+          },
+          {
+            "title": "Eyes of Yours: Surrealistic Concept Video",
+            "summary": "A mesmerizing AI‑crafted concept film that drifts between dream and reality, pulling viewers into a world shaped by imagination, emotion, and surreal beauty.",
+            "url": "https://www.ivideomaking.com/ai-video-production/eyes-of-yours-surrealistic-concept-video/",
+            "content_type": "media_item",
+            "tags": ["surrealism", "fantasy", "video"],
+            "priority": "medium"
+          }
+        ]
+      },
+      {
+        "title": "Astrophotography",
+        "summary": "Content focused on photographing celestial objects and creating time‑lapse sequences of the night sky.",
+        "url": "https://www.ivideomaking.com/astrophotography/",
+        "section_type": "project_group",
+        "entries": [
+          {
+            "title": "Moon Exploration I",
+            "summary": "A detailed look at lunar photography techniques supported by black‑and‑white imagery and DSLR best practices.",
+            "url": "https://www.ivideomaking.com/astrophotography/moon-exploration-i/",
+            "content_type": "media_item",
+            "tags": ["moon", "dslr", "video"],
+            "priority": "medium"
+          },
+          {
+            "title": "Moon Exploration II",
+            "summary": "A second lunar exploration video using extended zoom and photography animation to reveal surface details.",
+            "url": "https://www.ivideomaking.com/astrophotography/moon-exploration-ii/",
+            "content_type": "media_item",
+            "tags": ["moon", "animation", "video"],
+            "priority": "medium"
+          }
+        ]
+      },
+      {
+        "title": "Blog",
+        "summary": "Travel‑focused photography stories, behind‑the‑scenes insights, and creative explorations from real‑world adventures.",
+        "url": "https://www.ivideomaking.com/blog/",
+        "section_type": "blog_category",
+        "entries": [
+          {
+            "title": "Exploring Pasadena, California",
+            "summary": "A photographic exploration of Pasadena, including the historic neighborhood where Van Halen grew up.",
+            "url": "https://www.ivideomaking.com/blog/exploring-pasadena-california-van-halen-scrawls/",
+            "content_type": "blog_article",
+            "tags": ["pasadena", "travel", "photography"],
+            "priority": "medium"
+          },
+          {
+            "title": "Sunset in Palos Verdes",
+            "summary": "Capturing sunsets in Palos Verdes, where extended parking hours make golden‑hour shooting more relaxed.",
+            "url": "https://www.ivideomaking.com/blog/sunset-in-palos-verdes/",
+            "content_type": "blog_article",
+            "tags": ["sunset", "los-angeles", "landscape"],
+            "priority": "medium"
+          },
+          {
+            "title": "Above Ela Park",
+            "summary": "Exploring Ela Park in East L.A., where local food, culture, and photography outings go hand in hand.",
+            "url": "https://www.ivideomaking.com/blog/above-ela-park/",
+            "content_type": "blog_article",
+            "tags": ["los-angeles", "park", "travel"],
+            "priority": "medium"
+          },
+          {
+            "title": "Back in Downtown Los Angeles",
+            "summary": "A cold, windy winter clears L.A.’s skies, creating ideal conditions for panoramic time‑lapse cityscapes.",
+            "url": "https://www.ivideomaking.com/blog/back-in-downtown-los-angeles/",
+            "content_type": "blog_article",
+            "tags": ["los-angeles", "time-lapse", "cityscape"],
+            "priority": "medium"
+          },
+          {
+            "title": "Runyon Canyon After The Rain",
+            "summary": "A post‑rain visit to Runyon Canyon reveals new parking rules and classic Hollywood Hills views.",
+            "url": "https://www.ivideomaking.com/blog/runyon-canyon-after-the-rain/",
+            "content_type": "blog_article",
+            "tags": ["los-angeles", "hiking", "landscape"],
+            "priority": "medium"
+          },
+          {
+            "title": "Osheaga 2019",
+            "summary": "Photo impressions from the Osheaga Music and Arts Festival at Parc Jean‑Drapeau in Montreal.",
+            "url": "https://www.ivideomaking.com/blog/osheaga-2019/",
+            "content_type": "blog_article",
+            "tags": ["festival", "montreal", "music"],
+            "priority": "medium"
+          },
+          {
+            "title": "2019 Downtown Burbank Car Classic",
+            "summary": "A lively classic car show in Burbank featuring crowds, music, and heightened security after national events.",
+            "url": "https://www.ivideomaking.com/blog/2019-downtown-burbank-car-classic/",
+            "content_type": "blog_article",
+            "tags": ["cars", "event", "los-angeles"],
+            "priority": "medium"
+          },
+          {
+            "title": "Once Upon A Time In Hollywood Movie Premiere",
+            "summary": "A crowded Hollywood premiere experience where photographers navigate dense tourist crowds and tight shooting angles.",
+            "url": "https://www.ivideomaking.com/blog/once-upon-a-time-in-hollywood-movie-premiere/",
+            "content_type": "blog_article",
+            "tags": ["hollywood", "premiere", "film"],
+            "priority": "medium"
+          },
+          {
+            "title": "Hobbs & Shaw Movie Premiere",
+            "summary": "Documenting the Hobbs & Shaw premiere on a hot summer day along a packed Hollywood Boulevard.",
+            "url": "https://www.ivideomaking.com/blog/hobbs-shaw-movie-premiere/",
+            "content_type": "blog_article",
+            "tags": ["hollywood", "event", "film"],
+            "priority": "medium"
+          },
+          {
+            "title": "Exploring The Joshua Tree National Park",
+            "summary": "A trip to Joshua Tree with wind farm time‑lapses and an astronomy event at Sky’s The Limit Observatory.",
+            "url": "https://www.ivideomaking.com/blog/exploring-joshua-tree-national-park/",
+            "content_type": "blog_article",
+            "tags": ["joshua-tree", "travel", "time-lapse"],
+            "priority": "medium"
+          },
+          {
+            "title": "The 2019 L.A. River Clean-up",
+            "summary": "Reflections on the surprising volume and variety of trash collected during a major L.A. River cleanup.",
+            "url": "https://www.ivideomaking.com/blog/2019-la-river-clean-up/",
+            "content_type": "blog_article",
+            "tags": ["los-angeles", "environment", "community"],
+            "priority": "medium"
+          },
+          {
+            "title": "First Trip To Boston",
+            "summary": "A first photography trip to Boston focused on skyline views, public parks, and shifting weather.",
+            "url": "https://www.ivideomaking.com/blog/boston-time-lapse/",
+            "content_type": "blog_article",
+            "tags": ["boston", "travel", "time-lapse"],
+            "priority": "medium"
+          },
+          {
+            "title": "México Lindo y Querido (and Impressive)",
+            "summary": "Time‑lapse and photo sequences from Mexico City and Quintana Roo celebrating Mexico’s rich, eclectic culture.",
+            "url": "https://www.ivideomaking.com/blog/mexico-lindo-y-querido-and-impressive/",
+            "content_type": "blog_article",
+            "tags": ["mexico", "travel", "culture"],
+            "priority": "medium"
+          },
+          {
+            "title": "Exploring The City of a Hundred Steeples One More Time",
+            "summary": "Capturing August sunsets and skies in Montreal as part of the Québec Deluxe time‑lapse project.",
+            "url": "https://www.ivideomaking.com/blog/exploring-the-city-of-a-hundred-steeples-one-more-time/",
+            "content_type": "blog_article",
+            "tags": ["montreal", "sunset", "time-lapse"],
+            "priority": "medium"
+          },
+          {
+            "title": "Busy Day in The Big Apple",
+            "summary": "A packed shooting day in New York City, from Brooklyn’s Greenpoint to Central Park.",
+            "url": "https://www.ivideomaking.com/blog/busy-day-in-the-big-apple/",
+            "content_type": "blog_article",
+            "tags": ["new-york", "cityscape", "travel"],
+            "priority": "medium"
+          },
+          {
+            "title": "Cinematic Sunsets From Queens, New York",
+            "summary": "Capturing dramatic sunsets and constant train movement from a busy Queens metro station.",
+            "url": "https://www.ivideomaking.com/blog/cinematic-sunsets-from-queens/",
+            "content_type": "blog_article",
+            "tags": ["queens", "new-york", "sunset", "urban"],
+            "priority": "medium"
+          },
+          {
+            "title": "Visiting Elysian Park",
+            "summary": "A candid look at Elysian Park’s family spaces, urban decay, and strict closing time while shooting Dodger Stadium.",
+            "url": "https://www.ivideomaking.com/blog/visiting-elysian-park/",
+            "content_type": "blog_article",
+            "tags": ["los-angeles", "park", "urban"],
+            "priority": "medium"
+          },
+  {
+    "title": "Summertime in Redondo Beach!",
+    "summary": "A summer 2017 visit to Redondo Beach capturing time‑lapse sequences, lively pier activity, and seasonal music events.",
+    "url": "https://www.ivideomaking.com/blog/summertime-in-redondo-beach/",
+    "content_type": "blog_article",
+    "tags": ["redondo-beach", "time-lapse", "summer"],
+    "priority": "medium"
+  },
+  {
+    "title": "Documenting The Arroyo Seco Tunnels",
+    "summary": "A risky but rewarding effort to photograph the Arroyo Seco tunnels near Elysian Park, capturing traffic scenes by day and night.",
+    "url": "https://www.ivideomaking.com/blog/documenting-the-arroyo-seco-tunnels/",
+    "content_type": "blog_article",
+    "tags": ["los-angeles", "tunnels", "urban"],
+    "priority": "medium"
+  },
+  {
+    "title": "Visiting The South Gate Bridge",
+    "summary": "A long‑planned shoot at the South Gate Bridge, a local hangout and popular backdrop for photographers seeking dramatic skies.",
+    "url": "https://www.ivideomaking.com/blog/visiting-the-south-gate-bridge/",
+    "content_type": "blog_article",
+    "tags": ["south-gate", "los-angeles", "bridge", "photography"],
+    "priority": "medium"
+  },
+  {
+    "title": "The Views From The Baldwin Hills Scenic Overlook",
+    "summary": "A steep hike to Baldwin Hills Scenic Overlook offering panoramic views of Los Angeles and a workout along the way.",
+    "url": "https://www.ivideomaking.com/blog/the-views-from-the-baldwin-hills-scenic-overlook/",
+    "content_type": "blog_article",
+    "tags": ["los-angeles", "hiking", "panorama"],
+    "priority": "medium"
+  },
+  {
+    "title": "Las Vegas: The Electric City!",
+    "summary": "A fresh time‑lapse perspective on Las Vegas, capturing its vibrant energy and iconic nighttime atmosphere.",
+    "url": "https://www.ivideomaking.com/blog/las-vegas-the-electric-city/",
+    "content_type": "blog_article",
+    "tags": ["las-vegas", "time-lapse", "cityscape"],
+    "priority": "medium"
+  },
+  {
+    "title": "Downtown LA Under Construction",
+    "summary": "A look at Downtown LA’s major construction boom between 2012 and 2016, documented through casual phone photography.",
+    "url": "https://www.ivideomaking.com/blog/downtown-la-under-construction/",
+    "content_type": "blog_article",
+    "tags": ["los-angeles", "construction", "urban"],
+    "priority": "medium"
+  },
+  {
+    "title": "Los Angeles Fireworks Time-Lapse",
+    "summary": "A Mount Wilson time‑lapse capturing Fourth of July fireworks, enhanced by dense smoke clouds and calm winds.",
+    "url": "https://www.ivideomaking.com/blog/los-angeles-fireworks-time-lapse/",
+    "content_type": "blog_article",
+    "tags": ["los-angeles", "fireworks", "time-lapse"],
+    "priority": "medium"
+  },
+  {
+    "title": "Captain America Civil War Premiere",
+    "summary": "A packed Hollywood Boulevard premiere where massive crowds and limited access made coverage challenging.",
+    "url": "https://www.ivideomaking.com/blog/captain-america-civil-war-premiere/",
+    "content_type": "blog_article",
+    "tags": ["hollywood", "premiere", "film"],
+    "priority": "medium"
+  },
+  {
+    "title": "Farewell to the Sixth Street Viaduct",
+    "summary": "Behind‑the‑scenes photos documenting the final days of the historic Sixth Street Viaduct before demolition.",
+    "url": "https://www.ivideomaking.com/blog/farewell-to-the-sixth-street-viaduct/",
+    "content_type": "blog_article",
+    "tags": ["los-angeles", "bridge", "history"],
+    "priority": "medium"
+  },
+  {
+    "title": "Terminator Genisys Movie Premiere",
+    "summary": "A well‑organized Hollywood premiere offering unusually close access to the red carpet and cast arrivals.",
+    "url": "https://www.ivideomaking.com/blog/terminator-genisys-movie-premiere/",
+    "content_type": "blog_article",
+    "tags": ["hollywood", "event", "film"],
+    "priority": "medium"
+  },
+  {
+    "title": "Brown Spiders in Mount Wilson",
+    "summary": "A scenic Mount Wilson photography trip takes a dangerous turn after a venomous spider bite interrupts the shoot.",
+    "url": "https://www.ivideomaking.com/blog/brown-spiders-in-mount-wilson/",
+    "content_type": "blog_article",
+    "tags": ["mount-wilson", "nature", "incident"],
+    "priority": "medium"
+  },
+  {
+    "title": "Turnbull Canyon and the Gates of Heaven",
+    "summary": "Turnbull Canyon’s elevated terrain provides ideal conditions for capturing dramatic sunset time‑lapse sequences.",
+    "url": "https://www.ivideomaking.com/blog/turnbull-canyon-and-the-gates-of-heaven/",
+    "content_type": "blog_article",
+    "tags": ["turnbull-canyon", "sunset", "time-lapse"],
+    "priority": "medium"
+  },
+  {
+    "title": "Los Angeles Signs",
+    "summary": "A curated collection of unique and memorable signs discovered throughout the Los Angeles metropolitan area.",
+    "url": "https://www.ivideomaking.com/blog/los-angeles-signs/",
+    "content_type": "blog_article",
+    "tags": ["los-angeles", "signs", "urban"],
+    "priority": "medium"
+  },
+  {
+    "title": "Behind The Scenes: Downtown LA & The StubHub Center",
+    "summary": "A behind‑the‑scenes photo collection from Downtown LA and the StubHub Center, including an unusual helicopter encounter.",
+    "url": "https://www.ivideomaking.com/blog/behind-the-scenes-downtown-la-the-stubhub-center/",
+    "content_type": "blog_article",
+    "tags": ["los-angeles", "behind-the-scenes", "urban"],
+    "priority": "medium"
+  },
+  {
+    "title": "A Night At LACMA",
+    "summary": "A nighttime photography session at LACMA focused on capturing Chris Burden’s iconic 'Urban Light' installation.",
+    "url": "https://www.ivideomaking.com/blog/a-night-at-lacma/",
+    "content_type": "blog_article",
+    "tags": ["lacma", "los-angeles", "night", "art"],
+    "priority": "medium"
+  }
+        ]
+      },
+      {
+        "title": "General Discussions",
+        "summary": "Open‑ended conversations on filmmaking, photography, AI, and creative workflows.",
+        "url": "https://www.ivideomaking.com/general-discussions/",
+        "section_type": "content_section",
+        "entries": [
+          {
+            "title": "The Future of Music Videos: Discovery, Impact, and Innovation",
+            "summary": "A brief exploration of how AI and traditional production methods combine to shape the future of music videos.",
+            "url": "https://www.ivideomaking.com/general-discussions/the-future-of-music-videos-discovery-impact-and-innovation/",
+            "content_type": "blog_article",
+            "tags": ["ai", "music-videos", "innovation"],
+            "priority": "medium"
+          },
+          {
+            "title": "Could AI be the Future of Music Videos?",
+            "summary": "A reflection on AI’s growing creative role and its limitless potential in shaping modern music video production.",
+            "url": "https://www.ivideomaking.com/general-discussions/artificial-intelligence-and-the-future-of-music-videos/",
+            "content_type": "blog_article",
+            "tags": ["ai", "creativity", "music"],
+            "priority": "medium"
+          },
+          {
+            "title": "Will Artificial Intelligence Replace Photographers?",
+            "summary": "A discussion on why AI enhances rather than replaces human photographers, highlighting key AI applications.",
+            "url": "https://www.ivideomaking.com/general-discussions/will-artificial-intelligence-replace-photographers/",
+            "content_type": "blog_article",
+            "tags": ["ai", "photography", "technology"],
+            "priority": "medium"
+          }
+        ]
+      },
+      {
+        "title": "Music Videos",
+        "summary": "Creative explorations of music‑driven visuals, from performance shoots to AI‑generated concepts.",
+        "url": "https://www.ivideomaking.com/music-videos/",
+        "section_type": "project_group",
+        "entries": [
+          {
+            "title": "Ego by Xylie",
+            "summary": "A music video shot in Los Angeles, California. Rotoscoping technique.",
+            "url": "https://www.ivideomaking.com/music-videos/xylie/",
+            "content_type": "media_item",
+            "priority": "low"
+          },
+          {
+            "title": "Reluctant Hero by Poor Yorick",
+            "summary": "A music video shot in Los Angeles, California. Traditional band performance video.",
+            "url": "https://www.ivideomaking.com/music-videos/poor-yorick/",
+            "content_type": "media_item",
+            "priority": "low"
+          },
+          {
+            "title": "Last Outpost by The Golden Ghosts",
+            "summary": "A music video shot in the Southern California desert. Vintage look.",
+            "url": "https://www.ivideomaking.com/music-videos/the-golden-ghosts/",
+            "content_type": "media_item",
+            "priority": "low"
+          },
+          {
+            "title": "My Favorite Mistake by Poshlust",
+            "summary": "A music video shot in Los Angeles, California. Traditional band performance video.",
+            "url": "https://www.ivideomaking.com/music-videos/poshlust/",
+            "content_type": "media_item",
+            "priority": "low"
+          },
+          {
+            "title": "I Was a Member of the SLA by Teenage Frames",
+            "summary": "A music video shot in Downtown Los Angeles, California. Comic book look.",
+            "url": "https://www.ivideomaking.com/music-videos/teenage-frames-i-was-a-member-of-the-sla/",
+            "content_type": "media_item",
+            "priority": "low"
+          }
+        ]
+      },
+      {
+        "title": "News",
+        "summary": "Updates on industry trends, AI breakthroughs, and developments in visual storytelling.",
+        "url": "https://www.ivideomaking.com/news/",
+        "section_type": "news_section",
+        "entries": [
+          {
+            "title": "Another False Copyright Complaint – Rightster Entertainment A",
+            "summary": "A personal account of dealing with a false copyright complaint on YouTube and its impact on creators.",
+            "url": "https://www.ivideomaking.com/news/another-false-copyright-complaint-rightster-entertainment-a/",
+            "content_type": "blog_article",
+            "tags": ["copyright", "youtube", "creators"],
+            "priority": "low"
+          },
+          {
+            "title": "Copyright Violator From China",
+            "summary": "An ongoing struggle against unauthorized use of footage on YouTube, including a counterclaim from a violator.",
+            "url": "https://www.ivideomaking.com/news/copyright-violator-from-china/",
+            "content_type": "blog_article",
+            "tags": ["copyright", "infringement", "youtube"],
+            "priority": "low"
+          },
+          {
+            "title": "TimeLAX in “Made in California” 2013",
+            "summary": "Recognition of the first TimeLAX video as part of the 2013 “Made in California” art exhibition.",
+            "url": "https://www.ivideomaking.com/news/timelax-in-made-in-california-2013/",
+            "content_type": "blog_article",
+            "tags": ["timelax", "exhibition", "art"],
+            "priority": "low"
+          }
+        ]
+      },
+      {
+        "title": "Photography Tips",
+        "summary": "Practical advice and creative techniques to improve photography skills and visual storytelling.",
+        "url": "https://www.ivideomaking.com/photography-tips/",
+        "section_type": "blog_category",
+        "entries": [
+          {
+            "title": "The Miami Skyline From Key Biscayne",
+            "summary": "A guide to photographing Miami’s skyline from Key Biscayne, with notes on park access and timing.",
+            "url": "https://www.ivideomaking.com/photography-tips/the-miami-skyline-from-key-biscayne-and-everything-you-need-to-know/",
+            "content_type": "blog_article",
+            "tags": ["miami", "skyline", "landscape"],
+            "priority": "medium"
+          },
+          {
+            "title": "The Best Places to Photograph in New York City",
+            "summary": "An overview of New York City’s many vantage points that attract street photographers and time‑lapse creators.",
+            "url": "https://www.ivideomaking.com/photography-tips/the-best-places-to-photograph-in-new-york-city/",
+            "content_type": "blog_article",
+            "tags": ["new-york", "locations", "travel"],
+            "priority": "medium"
+          },
+          {
+            "title": "Where is the Z Tree in the Everglades National Park?",
+            "summary": "Location tips and safety advice for photographing the famous Z tree and similar subjects in the Everglades.",
+            "url": "https://www.ivideomaking.com/photography-tips/where-is-the-z-tree-in-the-everglades-national-park/",
+            "content_type": "blog_article",
+            "tags": ["everglades", "nature", "safety"],
+            "priority": "medium"
+          },
+          {
+            "title": "The Best Places to Photograph in Los Angeles",
+            "summary": "A curated list of photogenic locations across Los Angeles, from downtown to parks, bridges, and scenic roads.",
+            "url": "https://www.ivideomaking.com/photography-tips/the-best-places-to-photograph-in-los-angeles/",
+            "content_type": "blog_article",
+            "tags": ["los-angeles", "locations", "guide"],
+            "priority": "medium"
+          },
+          {
+            "title": "Macrophotography With an Action Camera: Can you get professional results?",
+            "summary": "Testing an action camera with a macro lens to capture flowers and evaluate its potential for professional results.",
+            "url": "https://www.ivideomaking.com/photography-tips/macrophotography-with-an-action-camera-can-you-get-professional-results/",
+            "content_type": "blog_article",
+            "tags": ["macro", "action-camera", "experiment"],
+            "priority": "medium"
+          },
+          {
+            "title": "Macro Lens With an Action Camera",
+            "summary": "Recording and photographing very small objects with an action camera and macro adapter, with surprisingly strong results.",
+            "url": "https://www.ivideomaking.com/photography-tips/macro-lens-with-an-action-camera/",
+            "content_type": "blog_article",
+            "tags": ["macro", "gear", "close-up"],
+            "priority": "medium"
+          }
+        ]
+      },
+      {
+        "title": "Software Tools",
+        "summary": "Guides to editing apps, AI tools, and software workflows used in modern visual production.",
+        "url": "https://www.ivideomaking.com/software-tools/",
+        "section_type": "content_section",
+        "entries": [
+          {
+            "title": "Adobe Express: A Budget-Friendly Tool for Aspiring Photographers",
+            "summary": "Adobe Express is a mobile app that allows you to edit photos, videos, and graphic designs quickly and easily.",
+            "url": "https://www.ivideomaking.com/software-tools/adobe-express-a-budget-friendly-tool-for-aspiring-photographers/",
+            "content_type": "blog_article",
+            "tags": ["photography", "software"],
+            "priority": "medium"
+          }
+        ]
+      },
+      {
+        "title": "Time-Lapse Video Production",
+        "summary": "Techniques and workflows for capturing and editing time‑lapse sequences across diverse environments.",
+        "url": "https://www.ivideomaking.com/time-lapse/",
+        "section_type": "project_group",
+        "entries": [
+          {
+            "title": "Timeless Magic City – Miami Time-Lapse",
+            "summary": "A time‑lapse project capturing Miami’s skyline, beaches, and urban energy through carefully crafted sequences.",
+            "url": "https://www.ivideomaking.com/time-lapse/time-lapse-timeless-magic-city/",
+            "content_type": "media_item",
+            "tags": ["miami", "cityscape", "time-lapse"],
+            "priority": "high"
+          },
+          {
+            "title": "See the Unseen: a Quebec Time-Lapse",
+            "summary": "A reflective time‑lapse project from Quebec exploring how multiple moments can be woven into a single visual story.",
+            "url": "https://www.ivideomaking.com/time-lapse/see-the-unseen/",
+            "content_type": "media_item",
+            "tags": ["quebec", "storytelling", "time-lapse"],
+            "priority": "high"
+          },
+          {
+            "title": "Montréal Total",
+            "summary": "A multi‑season time‑lapse compilation of Montreal shot between 2012 and 2017.",
+            "url": "https://www.ivideomaking.com/time-lapse/montreal-total/",
+            "content_type": "media_item",
+            "tags": ["montreal", "seasons", "time-lapse"],
+            "priority": "high"
+          },
+          {
+            "title": "The L.A. Traffic",
+            "summary": "A time‑lapse portrait of Los Angeles’ notorious traffic and its relentless flow across the city.",
+            "url": "https://www.ivideomaking.com/time-lapse/the-la-traffic/",
+            "content_type": "media_item",
+            "tags": ["los-angeles", "traffic", "time-lapse"],
+            "priority": "high"
+          },
+          {
+            "title": "Summertime in Montréal",
+            "summary": "A summer‑focused time‑lapse video dedicated to Montreal’s evolving urban and cultural landscape.",
+            "url": "https://www.ivideomaking.com/time-lapse/summertime-in-montreal/",
+            "content_type": "media_item",
+            "tags": ["montreal", "summer", "time-lapse"],
+            "priority": "high"
+          },
+          {
+            "title": "The Old Sixth Street Viaduct",
+            "summary": "A visual farewell to Los Angeles’ historic Sixth Street Viaduct before its demolition.",
+            "url": "https://www.ivideomaking.com/time-lapse/the-old-sixth-street-viaduct/",
+            "content_type": "media_item",
+            "tags": ["los-angeles", "bridge", "time-lapse"],
+            "priority": "high"
+          },
+          {
+            "title": "Colorful Silicon Beach",
+            "summary": "A vibrant time‑lapse of Venice and nearby beach cities, capturing their color, energy, and complexity.",
+            "url": "https://www.ivideomaking.com/time-lapse/colorful-silicon-beach/",
+            "content_type": "media_item",
+            "tags": ["venice-beach", "los-angeles", "time-lapse"],
+            "priority": "high"
+          },
+          {
+            "title": "Hollywood Nights",
+            "summary": "Nighttime time‑lapse sequences from Hollywood Boulevard, the Sunset Strip, and the Hollywood Hills.",
+            "url": "https://www.ivideomaking.com/time-lapse/hollywood-nights/",
+            "content_type": "media_item",
+            "tags": ["hollywood", "night", "time-lapse"],
+            "priority": "high"
+          },
+          {
+            "title": "Astrophotography in L.A. and the Supermoon",
+            "summary": "A time‑lapse project capturing various moon phases over Los Angeles, including several notable “supermoon” events.",
+            "url": "https://www.ivideomaking.com/time-lapse/astro-photography-in-la-and-the-supermoon/",
+            "content_type": "media_item",
+            "tags": ["moon", "los-angeles", "time-lapse"],
+            "priority": "high"
+          },
+          {
+            "title": "Hiking to the Hollywood Sign",
+            "summary": "A demanding hike to Mount Lee to film the Hollywood Sign and city views for the TimeLAX02 project.",
+            "url": "https://www.ivideomaking.com/time-lapse/hiking-to-the-hollywood-sign/",
+            "content_type": "media_item",
+            "tags": ["hollywood", "hiking", "time-lapse"],
+            "priority": "high"
+          },
+          {
+            "title": "TimeLAX – The Beginning",
+            "summary": "The foundational TimeLAX project, combining panoramic, architectural, and artistic photography from over 200 locations.",
+            "url": "https://www.ivideomaking.com/time-lapse/timelax-the-beginning/",
+            "content_type": "media_item",
+            "tags": ["los-angeles", "project", "time-lapse"],
+            "priority": "high"
+          }
+        ]
+      },
+      {
+        "title": "General Pages",
+        "summary": "Core informational pages describing the website, its mission, policies, and contact details.",
+        "url": "https://www.ivideomaking.com/",
+        "section_type": "content_section",
+        "entries": [
+          {
+            "title": "Artificial Intelligence and Video Production",
+            "summary": "With the use of AI-powered video generation tools, we can create visuals that surpass traditional video production methods, broadening our creative potential.",
+            "url": "https://www.ivideomaking.com/artificial-intelligence-and-video-production/",
+            "content_type": "page"
+          },
+          {
+            "title": "Contact page",
+            "summary": "Contact information and inquiry form for iVideoMaking creative studio.",
+            "url": "https://www.ivideomaking.com/contact-us/",
+            "content_type": "page"
+          },
+          {
+            "title": "About us",
+            "summary": "We travel, explore, test camera gear, and produce videos. This isn’t just what we do; it’s who we are.",
+            "url": "https://www.ivideomaking.com/about-us/",
+            "content_type": "page"
+          },
+          {
+            "title": "Privacy Policy",
+            "summary": "For privacy inquiries or complaints you can e-mail us at ivideomaking@gmail.com",
+            "url": "https://www.ivideomaking.com/privacy-policy/",
+            "content_type": "legal_page"
+          },
+          {
+            "title": "Sitemap",
+            "summary": "User-facing, hierarchical webpage that lists all pages of a ivideomaking.com",
+            "url": "https://www.ivideomaking.com/sitemap/",
+            "content_type": "page"
+          }
+        ]
+      }
+    ]
+  },
+  "metadata": { 
+     "last_updated": "2026-01-21",
+     "language": "en",
+     "source_url": "https://www.ivideomaking.com/",
+     "copyright": "© 2013-2026 RalphGM & RandyFX" 
+  }  
+ }
