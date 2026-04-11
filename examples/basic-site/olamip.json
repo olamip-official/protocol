@@ -193,6 +193,14 @@
             "content_type": "blog_article",
             "tags": ["seo", "marketing", "social-media"],
             "priority": "medium"
+          },
+          {
+            "title": "How OLAMIP Helps AI Systems Reduce and Prevent Hallucinations",
+            "summary": "This article explains how OLAMIP‘s structured JSON manifest offers clear, predictable content signals that can help LLMs retrieve verifiable data over guesswork.",
+            "url": "https://olamip.org/how-olamip-helps-ai-systems-reduce-and-prevent-hallucinations/",
+            "content_type": "blog_article",
+            "tags": ["ai-hallucinations", "structured-content", "retrieval-accuracy"],
+            "priority": "medium"
           }
         ]
       },
@@ -210,6 +218,24 @@
             "url": "https://olamip.org/how-ai-handles-missing-or-blocked-pages/",
             "content_type": "blog_article",
             "tags": ["ai-inference", "missing-data", "fallback-logic"],
+            "priority": "medium"
+          }
+        ]
+      },
+     {
+        "title": "AI Limitations & Web Challenges",
+        "summary": "This category examines the friction between traditional web design and modern AI systems. It highlights the hidden obstacles AI faces when interpreting websites, including noise, clutter, inconsistent formatting, dynamic content, and ambiguous HTML structures.",
+        "url": "https://olamip.org/category/ai-limitations-web-challenges/",
+        "section_type": "blog_category",
+        "priority": "medium",
+        "language": "en",
+        "entries": [
+          {
+            "title": "The Hidden Problems With HTML for AI Systems",
+            "summary": "An explanation of how AI systems infer meaning when pages are unavailable, including fallback strategies and contextual reconstruction.",
+            "url": "https://olamip.org/the-hidden-problems-with-html-for-ai-systems/",
+            "content_type": "blog_article",
+            "tags": ["html-limitations", "machine-readable-metadata", "ai-web-interpretation"],
             "priority": "medium"
           }
         ]
@@ -263,19 +289,27 @@
             "priority": "medium"
           },
           {
-            "title": "How OLAMIP Enables Multi‑Agent Collaboration",
-            "summary": "This article explains how OLAMIP gives agents a common semantic ground on which to coordinate, negotiate, and execute.",
+            "title": "Why Multi‑Agent AI Needs OLAMIP for Reliable Web Comprehension",
+            "summary": "This article explains how OLAMIP gives every agent in a multi‑agent system the same factual grounding, reducing ambiguity and improving coordination.",
             "url": "https://olamip.org/how-olamip-enables-multi-agent-collaboration/",
             "content_type": "blog_article",
             "tags": ["metadata", "conflict-resolution"],
             "priority": "medium"
           },
           {
-            "title": "How LLMs Actually Process Web Content",
-            "summary": "A technical breakdown of how LLMs tokenize, segment, and interpret web content, including the challenges posed by inconsistent structure.",
-            "url": "https://olamip.org/how-llms-actually-process-web-content/",
+            "title": "How OLAMIP Shapes AI Understanding of iVideoMaking.com",
+            "summary": "A technical overview of implementing the OLAMIP semantic sitemap, defining the site’s identity, major content sections, and key entries across AI video projects, time‑lapse films, photography guidance, and travel articles to support accurate, structured retrieval.",
+            "url": "https://olamip.org/how-olamip-shapes-ai-understanding-of-ivideomaking-com/",
             "content_type": "blog_article",
-            "tags": ["llm-processing", "web-content", "tokenization"],
+            "tags": ["olamip-implementation", "site-structure", "ai-content-mapping"],
+            "priority": "medium"
+          },
+          {
+            "title": "Designing Content AI Systems Can Understand",
+            "summary": "A step‑by‑step guide to creating AI‑ready content that LLMs can interpret, extract, and cite reliably. The article covers intent mapping, answer‑block structure, entity‑rich language, information gain, machine‑parsable formats, and authority signals. It explains how OLAMIP metadata—canonical answers, intent, context, and structured fields—helps AI systems understand pages with clarity and avoid hallucination.",
+            "url": "https://olamip.org/designing-content-ai-systems-can-understand/",
+            "content_type": "blog_article",
+            "tags": ["ai-ready-content", "answer-engine-optimization", "semantic-structure"],
             "priority": "medium"
           }
         ]
@@ -311,6 +345,14 @@
             "content_type": "blog_article",
             "tags": ["lisp", "symbolic-ai", "llms"],
             "priority": "medium"
+          },
+          {
+            "title": "The Future of Computer Programming in an AI‑Driven World",
+            "summary": "An exploration of how AI is transforming software development and how human programming roles are shifting toward intent definition, architecture, oversight, and conceptual design. The article outlines the skills that remain essential—functional and logic paradigms, meta‑programming, constraint‑based thinking, and foundational languages—showing how humans and AI will collaborate to build future intelligent systems.",
+            "url": "https://olamip.org/the-future-of-computer-programming-in-an-ai-driven-world/",
+            "content_type": "blog_article",
+            "tags": ["future-of-programming", "ai-assisted-development", "human-in-the-loop"],
+            "priority": "medium"
           }
         ]
       },
@@ -338,8 +380,35 @@
             "tags": ["llm-learning", "web-content", "ai-interpretation"],
             "priority": "medium"
           }
+,
+          {
+            "title": "OLAMIP and AI Discovery for Websites",
+            "summary": "An overview of how AI Discovery differs from traditional search indexing and why LLMs require structured meaning rather than crawled HTML. The article explains how OLAMIP provides summaries, metadata, hierarchy, canonical URLs, and priority signals that enable complete, accurate ingestion of all site content. It contrasts OLAMIP with LLMs.txt and shows why OLAMIP is the essential foundation for AI‑driven understanding.",
+            "url": "https://olamip.org/olamip-and-ai-discovery-for-websites/",
+            "content_type": "blog_article",
+            "tags": ["ai-discovery", "semantic-ingestion", "structured-web"],
+            "priority": "medium"
+          }
         ]
       },
+      {
+        "title": "AI‑Ready Web Standards",
+        "summary": "This category looks toward the future of web design, focusing on emerging standards that make content more accessible to AI systems. It explores the shift from presentation‑oriented HTML to meaning‑oriented metadata, the rise of structured protocols, and the growing demand for machine‑readable formats.",
+        "url": "https://olamip.org/category/ai-ready-web-standards/",
+        "section_type": "blog_category",
+        "priority": "medium",
+        "language": "en",
+        "entries": [
+          {
+            "title": "The Future of AI‑Readable Web Standards",
+            "summary": "An exploration of why the web must evolve toward AI‑readable standards and how OLAMIP provides a JSON‑based semantic sitemap that delivers summaries, hierarchy, tags, and canonical URLs for precise machine interpretation. The article contrasts HTML’s ambiguity with OLAMIP’s structured clarity, showing how it improves classification, retrieval, and accuracy across LLMs, search engines, and digital assistants.",
+            "url": "https://olamip.org/the-future-of-ai-readable-web-standards/",
+            "content_type": "blog_article",
+            "tags": ["ai-readable-standards", "semantic-web-evolution", "json-based-sitemaps"],
+            "priority": "medium"
+          }
+        ]
+      }, 
       {
         "title": "Machine‑Readable Protocols & The Future Web",
         "summary": "This category explores the evolution of machine‑readable standards and the growing need for protocols designed specifically for AI comprehension. Articles examine the limitations of traditional HTML‑only approaches and the rise of structured metadata.",
@@ -362,6 +431,30 @@
             "url": "https://olamip.org/the-ai-ready-web-a-guide-for-webmasters-to-olamip-and-webmcp/",
             "content_type": "blog_article",
             "tags": ["metadata", "web-standards", "ai"],
+            "priority": "medium"
+          },
+          {
+            "title": "AI Visibility Metrics Explained",
+            "summary": "An overview of AI visibility analytics, the emerging practice of measuring how often and how positively a brand appears inside AI‑generated answers. The article explains prompt‑based testing, UI scraping vs. API methods, visibility scoring, and why structured, machine‑readable content like OLAMIP is essential for accurate brand representation in an AI‑driven discovery landscape.",
+            "url": "https://olamip.org/ai-visibility-metrics-explained/",
+            "content_type": "blog_article",
+            "tags": ["ai-visibility", "brand-presence", "answer-metrics"],
+            "priority": "medium"
+          },
+          {
+            "title": "OLAMIP is a Real Semantic Sitemap",
+            "summary": "An explanation of how OLAMIP functions as a semantic sitemap, providing structured hierarchy, summaries, canonical URLs, tags, priorities, and policy controls that surpass traditional HTML/XML sitemaps. This machine‑readable design reduces noise, improves retrieval accuracy, and gives AI systems a curated understanding of a site’s meaning and content relationships.",
+            "url": "https://olamip.org/olamip-is-a-real-semantic-sitemap/",
+            "content_type": "blog_article",
+            "tags": ["semantic-sitemaps", "machine-readable-web", "structured-discovery"],
+            "priority": "medium"
+          },
+          {
+            "title": "Writing Blog Articles That Satisfy SEO, AEO, and GEO",
+            "summary": "A breakdown of how modern blog articles can simultaneously satisfy SEO, AEO, and GEO by combining traditional optimization with answer‑ready structure and generative‑engine clarity. The article explains how OLAMIP’s semantic sitemap, multilingual summaries, and tags strengthen visibility across search engines, answer engines, and AI systems.",
+            "url": "https://olamip.org/writing-blog-articles-that-satisfy-seo-aeo-and-geo/",
+            "content_type": "blog_article",
+            "tags": ["seo-aeo-geo", "multilingual-optimization", "semantic-sitemaps"],
             "priority": "medium"
           }
         ]
@@ -399,13 +492,21 @@
             "content_type": "blog_article",
             "tags": ["json", "olamip", "metadata"],
             "priority": "medium"
+          },
+          {
+            "title": "Data Governance and Taxonomy for an AI‑Readable Web",
+            "summary": "An in‑depth explanation of how data governance and taxonomy enable an AI‑readable web, and how OLAMIP provides the structured foundation for it. The article details canonical URLs, policy inheritance, language metadata, priority signals, normalized tags, summaries, and multi‑layer taxonomies that help AI systems interpret, retrieve, and reason over site content with consistency and reduced ambiguity.",
+            "url": "https://olamip.org/data-governance-and-taxonomy-for-an-ai-readable-web/",
+            "content_type": "blog_article",
+            "tags": ["data-governance", "content-taxonomy", "ai-readable-web"],
+            "priority": "medium"
           }
         ]
       }
     ]
   },
   "metadata": {
-    "last_updated": "2026-02-10",
+    "last_updated": "2026-04-11",
     "language": "en",
     "source_url": "https://olamip.org/",
     "copyright": "© 2025-2026 Ralph Gonzalez"
