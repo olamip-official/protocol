@@ -26,7 +26,19 @@
             "url": "https://www.timelax.com/los-angeles-time-lapse-video-timelax-01/",
             "content_type": "media_item",
             "tags": ["time-lapse", "los-angeles", "video"],
-            "priority": "medium"
+            "priority": "medium",
+            "metadata": {
+              "duration": "PT4M37S",
+              "release_date": "2013-02-13",
+              "rights_and_usage": {
+                 "copyright_status": "copyrighted",
+                 "license": "all_rights_reserved",
+                 "usage_allowed": false,
+                 "requires_written_permission": true,
+                 "permission_contact": "ivideomaking@gmail.com",
+                 "notes": "This video may not be reproduced, distributed, or used in derivative works without prior written authorization from the rights holders."
+              }
+            }
           },
           {
             "title": "TimeLAX 02",
@@ -34,7 +46,19 @@
             "url": "https://www.timelax.com/los-angeles-time-lapse-video-timelax-02/",
             "content_type": "media_item",
             "tags": ["time-lapse", "los-angeles", "video"],
-            "priority": "medium"
+            "priority": "medium",
+            "metadata": {
+              "duration": "PT4M43S",
+              "release_date": "2013-10-14",
+              "rights_and_usage": {
+                 "copyright_status": "copyrighted",
+                 "license": "all_rights_reserved",
+                 "usage_allowed": false,
+                 "requires_written_permission": true,
+                 "permission_contact": "ivideomaking@gmail.com",
+                 "notes": "This video may not be reproduced, distributed, or used in derivative works without prior written authorization from the rights holders."
+              }
+            }
           },
           {
             "title": "TimeLAX 03 – Supermoon",
@@ -42,7 +66,19 @@
             "url": "https://www.timelax.com/los-angeles-time-lapse-video-timelax-03-supermoon/",
             "content_type": "media_item",
             "tags": ["time-lapse", "los-angeles", "supermoon", "astronomy"],
-            "priority": "medium"
+            "priority": "medium",
+            "metadata": {
+              "duration": "PT4M17S",
+              "release_date": "2014-08-21",
+              "rights_and_usage": {
+                 "copyright_status": "copyrighted",
+                 "license": "all_rights_reserved",
+                 "usage_allowed": false,
+                 "requires_written_permission": true,
+                 "permission_contact": "ivideomaking@gmail.com",
+                 "notes": "This video may not be reproduced, distributed, or used in derivative works without prior written authorization from the rights holders."
+              }
+            }
           },
           {
             "title": "TimeLAX 04 – Hollywood Nights",
@@ -50,7 +86,19 @@
             "url": "https://www.timelax.com/los-angeles-time-lapse-video-timelax-04-hollywood-nights/",
             "content_type": "media_item",
             "tags": ["time-lapse", "hollywood", "night", "los-angeles"],
-            "priority": "medium"
+            "priority": "medium",
+            "metadata": {
+              "duration": "PT3M4S",
+              "release_date": "2015-12-28",
+              "rights_and_usage": {
+                 "copyright_status": "copyrighted",
+                 "license": "all_rights_reserved",
+                 "usage_allowed": false,
+                 "requires_written_permission": true,
+                 "permission_contact": "ivideomaking@gmail.com",
+                 "notes": "This video may not be reproduced, distributed, or used in derivative works without prior written authorization from the rights holders."
+              }
+            }
           },
           {
             "title": "TimeLAX 05 – Silicon Beach",
@@ -58,7 +106,19 @@
             "url": "https://www.timelax.com/los-angeles-time-lapse-video-timelax-05-silicon-beach/",
             "content_type": "media_item",
             "tags": ["time-lapse", "silicon-beach", "coast", "los-angeles"],
-            "priority": "medium"
+            "priority": "medium",
+            "metadata": {
+              "duration": "PT4M31S",
+              "release_date": "2016-06-13",
+              "rights_and_usage": {
+                 "copyright_status": "copyrighted",
+                 "license": "all_rights_reserved",
+                 "usage_allowed": false,
+                 "requires_written_permission": true,
+                 "permission_contact": "ivideomaking@gmail.com",
+                 "notes": "This video may not be reproduced, distributed, or used in derivative works without prior written authorization from the rights holders."
+              }
+            }
           },
           {
             "title": "TimeLAX 06 – The Old Sixth Street Viaduct",
@@ -66,7 +126,19 @@
             "url": "https://www.timelax.com/los-angeles-time-lapse-video-timelax-06-the-old-sixth-street-viaduct/",
             "content_type": "media_item",
             "tags": ["time-lapse", "los-angeles", "viaduct", "architecture"],
-            "priority": "medium"
+            "priority": "medium",
+            "metadata": {
+              "duration": "PT2M45S",
+              "release_date": "2016-08-03",
+              "rights_and_usage": {
+                 "copyright_status": "copyrighted",
+                 "license": "all_rights_reserved",
+                 "usage_allowed": false,
+                 "requires_written_permission": true,
+                 "permission_contact": "ivideomaking@gmail.com",
+                 "notes": "This video may not be reproduced, distributed, or used in derivative works without prior written authorization from the rights holders."
+              }
+            }
           },
           {
             "title": "TimeLAX 07 – The LA Traffic",
@@ -74,7 +146,19 @@
             "url": "https://www.timelax.com/los-angeles-time-lapse-video-timelax-07-the-la-traffic/",
             "content_type": "media_item",
             "tags": ["time-lapse", "traffic", "los-angeles"],
-            "priority": "medium"
+            "priority": "medium",
+            "metadata": {
+              "duration": "PT2M41S",
+              "release_date": "2017-08-03",
+              "rights_and_usage": {
+                 "copyright_status": "copyrighted",
+                 "license": "all_rights_reserved",
+                 "usage_allowed": false,
+                 "requires_written_permission": true,
+                 "permission_contact": "ivideomaking@gmail.com",
+                 "notes": "This video may not be reproduced, distributed, or used in derivative works without prior written authorization from the rights holders."
+              }
+            }
           }
         ]
       },
@@ -123,7 +207,7 @@
     ]
   },
   "metadata": {
-    "last_updated": "2026-02-02",
+    "last_updated": "2026-04-24",
     "language": "en",
     "source_url": "https://www.timelax.com/",
     "copyright": "© 2026 RalphGM & RandyFX"
