@@ -1,0 +1,53 @@
+{
+  "protocol": "OLAMIP-DELTA",
+  "version": "1.0.0",
+  "window_days": 7,
+  "last_updated": "2026-04-28",
+  "deltas": [
+    {
+      "date": "2026-04-20",
+      "added": [
+        {
+          "title": "OLAMIP, Data Annotation, and Data Governance",
+          "summary": "An exploration of how OLAMIP functions as a machine‑interpretable semantic layer that blends data annotation and data governance. It provides structured summaries, content types, tags, policies, and metadata in a single JSON manifest, giving AI systems clear meaning, reducing ambiguity, improving retrieval, enabling multilingual support, and creating a governed, future‑ready framework for web‑to‑AI communication.",
+          "url": "https://olamip.org/olamip-data-annotation-and-data-governance/",
+          "content_type": "blog_article",
+          "tags": ["data-annotation", "data-governance", "ai-interpretation"],
+          "priority": "medium"
+        }
+      ],
+      "updated": [],
+      "removed": []
+    },
+    {
+      "date": "2026-04-27",
+      "added": [
+        {
+          "title": "Why Every AI‑Powered Product Connected to the Web Needs OLAMIP",
+          "summary": "A description of how OLAMIP gives AI systems a structured, machine‑interpretable layer for understanding websites. It replaces noisy HTML with clear summaries, content types, hierarchy, and canonical meaning, reducing hallucinations and improving retrieval, interoperability, explainability, and multi‑agent coordination for any AI product that relies on web content.",
+          "url": "https://olamip.org/why-every-ai-powered-product-needs-olamip/",
+          "content_type": "blog_article",
+          "tags": ["interoperability", "semantic-web", "llm-reliability"],
+          "priority": "medium"
+        }
+      ],
+      "updated": [],
+      "removed": []
+    },
+    {
+      "date": "2026-04-28",
+      "added": [],
+      "updated": [
+        {
+          "title": "How FAQs Became Prime Content for LLMs",
+          "summary": "An exploration of why FAQs have become ideal content for LLMs and how OLAMIP turns them into precise, machine‑readable entries. By structuring FAQs with titles, summaries, URLs, tags, priorities, and policies, OLAMIP improves retrieval, reduces hallucinations, supports RAG pipelines, enables multilingual access, and lets AI systems treat FAQ libraries as clean semantic APIs instead of scraping noisy HTML.",
+          "url": "https://olamip.org/how-faqs-became-prime-content-for-llms/",
+          "content_type": "blog_article",
+          "tags": ["llm-optimization", "ai-retrieval", "semantic-structure"],
+          "priority": "medium"
+        }
+      ],
+      "removed": []
+    }
+  ]
+}
