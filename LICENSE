@@ -1,6 +1,7 @@
 # OLAMIP Licensing Overview
 
 This repository uses a **dual‑license structure** to protect the integrity of the OLAMIP protocol while keeping implementations fully open.
+Any translations are for convenience only; the English version is the official one.
 
 ## 1. Specification and Documentation License
 
@@ -31,12 +32,6 @@ The `examples/` directory may also contain real OLAMIP‑use‑case files (e.g.,
 - They are **not** automatically covered by the CC BY‑ND license.  
 - Their usage should follow the terms of the **original site’s content license** (e.g., standard website terms, copyright notice, or any explicit reuse license).  
 - You may not redistribute them as if they were part of the OLAMIP spec, and you must respect the original publisher’s rights.
-
-If you publish real‑world examples, clearly label each subdirectory or file with:
-
-- A short note that it is a **real‑world use‑case**.  
-- A link or citation to the original site.  
-- A reminder that the OLAMIP spec is CC BY‑ND, but the *content* is not.
 
 ## 3. Source Code License
 
