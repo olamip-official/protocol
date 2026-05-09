@@ -20,7 +20,7 @@
     "name": "Example Site",
     "type": "blog",
     "canonical_description": "Сайт о технологиях и обновлениях продуктов.",
-    "tags": ["technology", "blog"]
+    "tags": ["технология", "blog"]
   },
   "content": {
     "overview": {
@@ -40,7 +40,7 @@
             "content_type": "blog_article",
             "tags": ["intro", "blog"],
             "priority": "high",
-            "language": "en"
+            "language": "ru"
           }
         ]
       }
@@ -48,7 +48,7 @@
   },
   "metadata": {
     "last_updated": "2026-04-06",
-    "language": "en",
+    "language": "ru",
     "source_url": "https://yourdomain.com/",
     "copyright": "© 2026 Example Site"
   }
