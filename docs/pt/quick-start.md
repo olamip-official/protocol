@@ -20,7 +20,7 @@ Comece com um snapshot pequeno e limpo das suas páginas mais importantes.
     "name": "Example Site",
     "type": "blog",
     "canonical_description": "Um site sobre tecnologia e atualizações de produtos.",
-    "tags": ["technology", "blog"]
+    "tags": ["tecnologia", "blog"]
   },
   "content": {
     "overview": {
