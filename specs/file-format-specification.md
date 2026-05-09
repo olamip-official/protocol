@@ -59,7 +59,7 @@ The OLAMIP file must be a valid UTF‑8‑encoded JSON document containing:
 ```json
 {
   "protocol": "OLAMIP",
-  "version": "1.0",
+  "version": "1.0.0",
   "identity": { "...": "..." },
   "content": { "...": "..." },
   "metadata": { "...": "..." }
