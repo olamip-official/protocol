@@ -19,28 +19,28 @@
   "identity": {
     "name": "Example Site",
     "type": "blog",
-    "canonical_description": "A website about technology and product updates.",
-    "tags": ["technology", "blog"]
+    "canonical_description": "一个关于技术和产品更新的网站。",
+    "tags": ["技术", "blog"]
   },
   "content": {
     "overview": {
-      "summary": "A technology blog covering product news, tutorials, and opinion pieces."
+      "summary": "一个涵盖科技博客、产品新闻、教程和观点文章的博客。"
     },
     "sections": [
       {
         "title": "Blog",
-        "summary": "Articles and guides.",
+        "summary": "文章和指南。",
         "url": "https://yourdomain.com/blog/",
         "section_type": "blog_category",
         "entries": [
           {
-            "title": "Welcome to the Blog",
-            "summary": "An introduction to the site’s content and purpose.",
+            "title": "欢迎来到我们的博客",
+            "summary": "对网站内容和目的的介绍。",
             "url": "https://yourdomain.com/blog/welcome/",
             "content_type": "blog_article",
             "tags": ["intro", "blog"],
             "priority": "high",
-            "language": "en"
+            "language": "cn-ZH"
           }
         ]
       }
@@ -48,7 +48,7 @@
   },
   "metadata": {
     "last_updated": "2026-04-06",
-    "language": "en",
+    "language": "cn-ZH",
     "source_url": "https://yourdomain.com/",
     "copyright": "© 2026 Example Site"
   }
