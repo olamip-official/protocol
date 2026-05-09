@@ -17,10 +17,10 @@ Empieza con una instantánea pequeña y limpia de tus páginas más importantes.
   "protocol": "OLAMIP",
   "version": "1.0.0",
   "identity": {
-    "name": "Example Site",
+    "name": "Ejemplo de Sitio Web",
     "type": "blog",
     "canonical_description": "Un sitio web sobre tecnología y novedades de productos.",
-    "tags": ["technology", "blog"]
+    "tags": ["tecnología", "blog"]
   },
   "content": {
     "overview": {
@@ -30,17 +30,17 @@ Empieza con una instantánea pequeña y limpia de tus páginas más importantes.
       {
         "title": "Blog",
         "summary": "Artículos y guías.",
-        "url": "https://yourdomain.com/blog/",
+        "url": "https://sudominio.com/blog/",
         "section_type": "blog_category",
         "entries": [
           {
             "title": "Bienvenido al blog",
             "summary": "Una introducción al contenido y propósito del sitio.",
-            "url": "https://yourdomain.com/blog/welcome/",
+            "url": "https://yourdomain.com/blog/bienvenido/",
             "content_type": "blog_article",
             "tags": ["intro", "blog"],
             "priority": "high",
-            "language": "en"
+            "language": "es"
           }
         ]
       }
@@ -48,8 +48,8 @@ Empieza con una instantánea pequeña y limpia de tus páginas más importantes.
   },
   "metadata": {
     "last_updated": "2026-04-06",
-    "language": "en",
-    "source_url": "https://yourdomain.com/",
+    "language": "es",
+    "source_url": "https://sudominio.com/",
     "copyright": "© 2026 Example Site"
   }
 }
@@ -60,8 +60,8 @@ Empieza con una instantánea pequeña y limpia de tus páginas más importantes.
 Añade esto a la sección `<head>` de tu página de inicio y de las páginas clave:
 
 ```html
-<link rel="olamip" href="https://yourdomain.com/olamip.json">
-<meta name="olamip-location" content="https://yourdomain.com/olamip.json">
+<link rel="olamip" href="https://sudominio.com/olamip.json">
+<meta name="olamip-location" content="https://sudominio.com/olamip.json">
 ```
 
 ## 3. Mantén los resúmenes concisos
@@ -133,7 +133,7 @@ Ejemplos:
   {
     "title": "Guías obsoletas",
     "summary": "Contenido desactualizado, no apto para IA.",
-    "url": "https://yourdomain.com/old-guides/",
+    "url": "https://sudominio.com/old-guides/",
     "section_type": "doc_category",
     "policy": "forbid"
   }
@@ -145,7 +145,7 @@ Ejemplos:
   {
     "title": "Página interna de prueba",
     "summary": "Página usada solo para pruebas.",
-    "url": "https://yourdomain.com/test/",
+    "url": "https://sudominio.com/test/",
     "content_type": "page",
     "policy": "forbid"
   }
