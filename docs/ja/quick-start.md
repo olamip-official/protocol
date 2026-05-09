@@ -20,7 +20,7 @@
     "name": "Example Site",
     "type": "blog",
     "canonical_description": "技術と製品アップデートに関するウェブサイト。",
-    "tags": ["technology", "blog"]
+    "tags": ["技術", "blog"]
   },
   "content": {
     "overview": {
