@@ -15,7 +15,7 @@ Start with a small, clean snapshot of your most important pages.
 ```json
 {
   "protocol": "OLAMIP",
-  "version": "1.0",
+  "version": "1.0.0",
   "identity": {
     "name": "Example Site",
     "type": "blog",
