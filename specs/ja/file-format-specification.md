@@ -50,7 +50,7 @@ UTF‑8 の有効な JSON であり、以下を含む必要があります：
 ```json
 {
   "protocol": "OLAMIP",
-  "version": "1.0",
+  "version": "1.0.0",
   "identity": {},
   "content": {},
   "metadata": {}
