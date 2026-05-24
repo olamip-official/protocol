@@ -1,134 +1,46 @@
-<p align="center">
-  <img src="assets/banner.jpg" alt="Bendera ya OLAMIP" width="100%">
-</p>
+# OLAMIP – Documentazione in Italiano  
+Copyright © 2025 Ralph Gonzalez – https://olamip.org
 
-<p align="center">
-  <img src="assets/logo.png" alt="Nembo ya OLAMIP" width="140">
-</p>
+## Introduzione
 
-<h1 align="center">Itifaki ya OLAMIP</h1>
+L’**Open Language‑Aligned and Machine‑Interpretable Protocol (OLAMIP)** definisce un formato di file aperto e interoperabile progettato per rappresentare dati linguistici, morfologici e fonologici in modo strutturato e pienamente leggibile dalle macchine.
 
-<p align="center">
-  <strong>Open Language‑Aligned Machine‑Interpretable Protocol</strong><br>
-  Kiwango huria, chenye lugha nyingi, kilichopangwa, na kinachoweza kufasiriwa na mashine kwa tovuti zinazosomeka na AI.
-</p>
+Questo repository include:
 
-<p align="center">
-  <a href="https://olamip.org/">Tovuti</a> •
-  <a href="https://olamip.org/file-format-specification/">Maelezo ya Muundo wa Faili</a> •
-  <a href="https://olamip.org/delta-updates/">OLAMIP‑DELTA</a> •
-  <a href="https://olamip.org/frequently-asked-questions/">Maswali Yanayoulizwa Mara kwa Mara</a>
-</p>
+- Documentazione leggibile dall’uomo (`/docs`)
+- Schemi leggibili dalla macchina (`/specs`)
+- File di esempio OLAMIP (`/examples`)
+- Workflow di integrazione continua (`/.github/workflows`)
 
 ---
 
-# 📘 Muhtasari
+## Per Iniziare
 
-OLAMIP ni itifaki huria, yenye lugha nyingi, inayowezesha tovuti kueleza muundo wake, maana yake, na nia yake katika umbizo linaloweza kufasiriwa na mashine. Inatoa uwakilishi safi wa JSON ambao mifano mikubwa ya lugha (LLMs) inaweza kuchanganua kwa uaminifu, bila kulazimika kuchambua HTML, CSS, au JavaScript. [web:50][web:58]
-
-Hifadhi hii ina:
-
-- **Maelezo rasmi ya OLAMIP**.
-- **Itifaki ya masasisho ya nyongeza ya OLAMIP‑DELTA**.
-- **Nyaraka za lugha nyingi na vifaa vya utawala**.
-- **Mifano na violezo**.
+Per una panoramica generale, consulta:  
+`docs/overview.md`
 
 ---
 
-# 🌐 Faharasa ya Lugha
+## Licenze
 
-Nyaraka za OLAMIP zinapatikana katika lugha nyingi. Kila kategoria (Specs, Docs, Governance) ina folda sambamba:
+Il progetto OLAMIP utilizza un modello a doppia licenza:
 
-```text
-/specs/<lang>
-/docs/<lang>
-/governance/<lang>
-```
+### **Licenza della Specifica (CC BY‑ND 4.0)**
 
-### Lugha Zinazoungwa Mkono
+La specifica del protocollo e la documentazione (`/specs`, `/docs`) sono rilasciate sotto la licenza  
+**Creative Commons Attribution–NoDerivatives 4.0 International**.
 
-| Lugha | Msimbo | Specs | Docs | Governance |
-|---|---|---|---|---|
-| Kiingereza | en | [/specs/en](specs/en/) | [/docs/en](docs/en/) | [/governance/en](governance/en/) |
-| Kihispania | es | [/specs/es](specs/es/) | [/docs/es](docs/es/) | [/governance/es](governance/es/) |
-| Kirusi | ru | [/specs/ru](specs/ru/) | [/docs/ru](docs/ru/) | [/governance/ru](governance/ru/) |
-| Kijapani | ja | [/specs/ja](specs/ja/) | [/docs/ja](docs/ja/) | [/governance/ja](governance/ja/) |
-| Kichina (Rahisi) | zh‑CN | [/specs/zh-CN](specs/zh-CN/) | [/docs/zh-CN](docs/zh-CN/) | [/governance/zh-CN](governance/zh-CN/) |
-| Kireno | pt | [/specs/pt](specs/pt/) | [/docs/pt](docs/pt/) | [/governance/pt](governance/pt/) |
-| Kihindi | hi | [/specs/hi](specs/hi/) | [/docs/hi](docs/hi/) | [/governance/hi](governance/hi/) |
-| Kibengali | bn | [/specs/bn](specs/bn/) | [/docs/bn](docs/bn/) | [/governance/bn](governance/bn/) |
+Questa licenza consente l’uso libero e commerciale, ma **non permette la distribuzione di versioni modificate** della specifica.  
+Ciò garantisce l’uniformità del protocollo ed evita la frammentazione.
 
-> Lugha zaidi huongezwa mara kwa mara.
+### **Licenza del Codice Sorgente (MIT)**
+
+Tutte le implementazioni di riferimento e le suite di test (`/src`, `/tests`) sono pubblicate sotto la **licenza MIT**, che consente piena modifica, riutilizzo e integrazione commerciale.
 
 ---
 
-# 📑 Muundo wa Hifadhi
+## Riepilogo
 
-```text
-/README.md              → Ukurasa mkuu wa hifadhi
-/CHANGELOG.md           → Rekodi ya mabadiliko ya jumla
-/LICENSE                → Leseni
-/assets/                → Nembo, mabango, michoro
+- **Specifica & Documentazione → CC BY‑ND (senza opere derivate)**  
+- **Codice Sorgente → MIT (completamente aperto)**
 
-/specs/                 → Maelezo rasmi ya OLAMIP & OLAMIP‑DELTA
-    /en/ /es/ /ru/ /ja/ /zh-CN/ /pt/ /hi/ /bn/
-
-/docs/                  → Nyaraka, miongozo, maelezo
-    /en/ /es/ /ru/ /ja/ /zh-CN/ /pt/ /hi/ /bn/
-
-/governance/            → Utawala, toleo, michakato
-    /en/ /es/ /ru/ /ja/ /zh-CN/ /pt/ /hi/ /bn/
-
-/examples/              → Mifano ya faili za OLAMIP na violezo
-```
-
----
-
-# 📜 Maelezo ya Kiufundi
-
-### **Maelezo ya Msingi**
-- Kiingereza: [/specs/en](specs/en/).
-- Toleo la tovuti: [https://olamip.org/file-format-specification/](https://olamip.org/file-format-specification/).
-
-### **OLAMIP‑DELTA**
-- Kiingereza: [/specs/en](specs/en/).
-- Toleo la tovuti: [https://olamip.org/delta-updates/](https://olamip.org/delta-updates/).
-
----
-
-# 🧭 Utawala
-
-Utawala, matoleo, na mageuzi ya itifaki:
-
-- Kiingereza: [/governance/en](governance/en/).
-- Kihindi: [/governance/hi](governance/hi/).
-- Kibengali: [/governance/bn](governance/bn/).
-- Lugha zote: [/governance](governance/).
-
----
-
-# 🧪 Mifano
-
-Mifano ya faili na violezo vya OLAMIP:
-
-- [/examples](examples/).
-
-Inajumuisha:
-
-- Mfano wa `olamip.json`.
-- Mfano wa `olamip-delta.json`.
-- Violezo vya section/entry.
-- Mifumo bora ya matumizi.
-
----
-
-# 📄 Leseni
-
-Mradi huu umetolewa chini ya leseni huria. Angalia faili `/LICENSE` na folda ya `/governance` kwa maelezo zaidi.
-
----
-
-<p align="center">
-  <strong>OLAMIP — Kuifanya Wavuti Isomwe na Mashine.</strong><br>
-  <a href="https://olamip.org/">https://olamip.org/</a>
-</p>
