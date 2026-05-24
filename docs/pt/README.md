@@ -1,3 +1,5 @@
+# OLAMIP – Documentação em Português
+
 Copyright © 2025 Ralph Gonzalez – https://olamip.org
 
 O Protocolo Aberto de Linguagem Alinhada e Interpretável por Máquina (OLAMIP) define um formato de arquivo aberto e interoperável para representar dados linguísticos, morfológicos e fonológicos de forma estruturada e legível por máquinas.
