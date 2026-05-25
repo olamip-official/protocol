@@ -59,6 +59,13 @@ Each category (Specs, Docs, Governance) contains parallel folders:
 | Portuguese | pt | [/specs/pt](specs/pt/) | [/docs/pt](docs/pt/) | [/governance/pt](governance/pt/) |
 | Hindi | hi | [/specs/hi](specs/hi/) | [/docs/hi](docs/hi/) | [/governance/hi](governance/hi/) |
 | Bengali | bn | [/specs/bn](specs/bn/) | [/docs/bn](docs/bn/) | [/governance/bn](governance/bn/) |
+| Arabic | ar | [/specs/ar](specs/ar/) | [/docs/ar](docs/ar/) | [/governance/ar](governance/ar/) |
+| German | de | [/specs/de](specs/de/) | [/docs/de](docs/de/) | [/governance/de](governance/de/) |
+| French | fr | [/specs/fr](specs/fr/) | [/docs/fr](docs/fr/) | [/governance/fr](governance/fr/) |
+| Indonesian | id | [/specs/id](specs/id/) | [/docs/id](docs/id/) | [/governance/id](governance/id/) |
+| Italian | it | [/specs/it](specs/it/) | [/docs/it](docs/it/) | [/governance/it](governance/it/) |
+| Swahili | sw | [/specs/sw](specs/sw/) | [/docs/sw](docs/sw/) | [/governance/sw](governance/sw/) |
+
 
 > More languages are added regularly.
 
@@ -73,13 +80,13 @@ Each category (Specs, Docs, Governance) contains parallel folders:
 /assets/                → Logos, banners, diagrams
 
 /specs/                 → Official OLAMIP & OLAMIP‑DELTA specifications
-    /en/ /es/ /ru/ /ja/ /zh-CN/ /pt/ /hi/ /bn/
+    /en/ /es/ /ru/ /ja/ /zh-CN/ /pt/ /hi/ /bn/ /ar/ /de/ /fr/ /id/ /it/ /sw/
 
 /docs/                  → Documentation, guides, explanations
-    /en/ /es/ /ru/ /ja/ /zh-CN/ /pt/ /hi/ /bn/
+    /en/ /es/ /ru/ /ja/ /zh-CN/ /pt/ /hi/ /bn/ /ar/ /de/ /fr/ /id/ /it/ /sw/
 
 /governance/            → Governance, versioning, processes
-    /en/ /es/ /ru/ /ja/ /zh-CN/ /pt/ /hi/ /bn/
+    /en/ /es/ /ru/ /ja/ /zh-CN/ /pt/ /hi/ /bn/ /ar/ /de/ /fr/ /id/ /it/ /sw/
 
 /examples/              → Example OLAMIP files and templates
 ```
